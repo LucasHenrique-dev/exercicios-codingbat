@@ -1,7 +1,7 @@
 package startOz;
 
 public class StartOz {
-    //Dada a String retorne apenas as duas primeiras letras, se tivre, contudo apenas se forem O ou Z, respectivamente.
+    //Dada a String retorne apenas as duas primeiras letras, se tiver, contudo apenas se forem O ou Z, respectivamente.
     //EX.: OLX -> O; EZZY -> Z; OZZY -> OZ.
 
     public String startOz(String str) {
