@@ -1,2 +1,2 @@
 # Warmup-1
- Exercícios do site CodingBat (Java)
+Exercícios do site CodingBat (Java)
