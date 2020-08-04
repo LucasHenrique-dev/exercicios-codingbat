@@ -1,2 +1,2 @@
 # Array-2
- Exercícios do CodingBat
+Exercícios do CodingBat
