@@ -1,3 +1,2 @@
 # repo-C
-# repo-A
- repositório teste
+ repositório teste: Junção do repositório A e B no C
